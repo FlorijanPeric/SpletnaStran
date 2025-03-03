@@ -1,0 +1,6 @@
+* 1caeb0d (HEAD -> featureA, origin/featureA) Done with upr ref
+* e94568f first Functionality
+| * 35ee2d9 (origin/main, main, hotfix) hotfix Done
+|/  
+* 3b2dc6e done
+* 78e3ef2 Done
